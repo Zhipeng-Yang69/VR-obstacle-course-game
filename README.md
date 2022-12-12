@@ -10,10 +10,11 @@ The game will provide an enjoyable environment for the user to get distracted fr
 **Editor**: Unity https://unity3d.com/get-unity/download</br> 
 **Asset**: https://assetstore.unity.com/</br>
 **Packages needed to installin unity**: </br>
-  Oculus  XR Plugin**</br>
-  OpenXR Plugin**</br>
-  XR Plugin Management**</br>
-  XR Interaction Toolkit**</br>
+  Oculus  XR Plugin</br>
+  OpenXR Plugin</br>
+  XR Plugin Management</br>
+  XR Interaction Toolkit</br>
+  
   
  
 
