@@ -8,6 +8,7 @@ The game will provide an enjoyable environment for the user to get distracted fr
 
 ## Technologies
 **Editor**: Unity https://unity3d.com/get-unity/download</br> 
+**Animation**:Animation
 **Asset**: https://assetstore.unity.com/</br>
 **Packages needed to installin unity**: </br>
   Oculus  XR Plugin</br>
