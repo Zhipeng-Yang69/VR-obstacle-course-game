@@ -5,10 +5,10 @@ This project will provide a playable environment using a VR set, specifically th
 Editor: Unity https://unity3d.com/get-unity/download</br> 
 Asset: https://assetstore.unity.com/
 Packages needed to installin unity: </br>
-**Oculus  XR Plugin</br>
-**OpenXR Plugin</br>
-**XR Plugin Management</br>
-**XR Interaction Toolkit</br>
+**Oculus  XR Plugin**</br>
+**OpenXR Plugin**</br>
+**XR Plugin Management**</br>
+**XR Interaction Toolkit**</br>
 
 
 
