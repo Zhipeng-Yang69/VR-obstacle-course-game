@@ -15,18 +15,18 @@ The game will provide an enjoyable environment for the user to get distracted fr
   OpenXR Plugin</br>
   XR Plugin Management</br>
   XR Interaction Toolkit</br>
-  ### Game menus
+  ### Game Menus
   
   ![menu](https://user-images.githubusercontent.com/73086634/207665983-fd760afd-1a96-40b9-bb18-e13a3e77e194.jpg)
 
   ![CongratulationsMenu](https://user-images.githubusercontent.com/98935624/207723709-c3b77d3f-154a-47ef-a15d-6e268a0d3e3d.jpeg)
 
   ![end menu](https://user-images.githubusercontent.com/73086634/207665999-a45c5d26-9f64-40bf-a930-8e6548f9ec47.jpg)
-### desert scene
+### Desert Scene
 ![desert1](https://user-images.githubusercontent.com/73086634/207666320-493f33ad-ce4f-4918-8c1d-723fab6879f8.jpg)
 
  ![desert2](https://user-images.githubusercontent.com/73086634/207666330-00975999-3515-4b83-9f22-b260a5ec2238.jpg)
-### city scene
+### City Scene
 ![city1](https://user-images.githubusercontent.com/73086634/207666390-d7a35187-ff8a-47b5-9cbb-84cb7b836356.jpg)
 
 ![city2](https://user-images.githubusercontent.com/73086634/207666403-b8be25f8-1f90-474a-af27-14251559aed2.jpg)
