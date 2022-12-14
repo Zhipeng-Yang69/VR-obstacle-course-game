@@ -20,8 +20,14 @@ The game will provide an enjoyable environment for the user to get distracted fr
   ![menu](https://user-images.githubusercontent.com/73086634/207665983-fd760afd-1a96-40b9-bb18-e13a3e77e194.jpg)
 
   ![end menu](https://user-images.githubusercontent.com/73086634/207665999-a45c5d26-9f64-40bf-a930-8e6548f9ec47.jpg)
+### desert scene
+![desert1](https://user-images.githubusercontent.com/73086634/207666320-493f33ad-ce4f-4918-8c1d-723fab6879f8.jpg)
 
- 
+ ![desert2](https://user-images.githubusercontent.com/73086634/207666330-00975999-3515-4b83-9f22-b260a5ec2238.jpg)
+### city scene
+![city1](https://user-images.githubusercontent.com/73086634/207666390-d7a35187-ff8a-47b5-9cbb-84cb7b836356.jpg)
+
+![city2](https://user-images.githubusercontent.com/73086634/207666403-b8be25f8-1f90-474a-af27-14251559aed2.jpg)
 
 
 
