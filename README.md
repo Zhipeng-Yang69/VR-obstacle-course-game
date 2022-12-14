@@ -15,7 +15,7 @@ The game will provide an enjoyable environment for the user to get distracted fr
   OpenXR Plugin</br>
   XR Plugin Management</br>
   XR Interaction Toolkit</br>
-  ### Game menu
+  ### Game menus
   
   ![menu](https://user-images.githubusercontent.com/73086634/207665983-fd760afd-1a96-40b9-bb18-e13a3e77e194.jpg)
 
