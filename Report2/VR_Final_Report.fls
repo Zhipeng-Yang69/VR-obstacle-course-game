@@ -1,0 +1,6 @@
+PWD /Users/zyc/Desktop/VR-obstacle-course-game/Report
+INPUT /usr/local/texlive/2022/texmf.cnf
+INPUT /usr/local/texlive/2022/texmf-dist/web2c/texmf.cnf
+INPUT /usr/local/texlive/2022/texmf-var/web2c/pdftex/pdflatex.fmt
+INPUT /Users/zyc/Desktop/VR-obstacle-course-game/Report/VR_Final_Report.tex
+OUTPUT VR_Final_Report.log
