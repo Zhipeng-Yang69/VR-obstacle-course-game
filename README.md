@@ -23,7 +23,7 @@ The game will provide an enjoyable environment for the user to get distracted fr
 
   ![end menu](https://user-images.githubusercontent.com/73086634/207665999-a45c5d26-9f64-40bf-a930-8e6548f9ec47.jpg)
 ### Forest Scene
-<img width="947" alt="forest" src="https://user-images.githubusercontent.com/73086634/207993256-72fc19f4-9e50-4afe-98ab-0e4bda04c8ed.png">
+<img width="500" alt="forest" src="https://user-images.githubusercontent.com/73086634/207993256-72fc19f4-9e50-4afe-98ab-0e4bda04c8ed.png">
 
 ### Desert Scene
 ![desert1](https://user-images.githubusercontent.com/73086634/207666320-493f33ad-ce4f-4918-8c1d-723fab6879f8.jpg)
